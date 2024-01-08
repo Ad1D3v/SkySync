@@ -1,5 +1,5 @@
 # SkySync
-SkySync is a research-based project proposed mainly for creation of an effective autonomous flight control system via reinforcement learning. The project focuses on the full autonomous control of an aircraft purely via AI. This is a simulation-based project created in Unity Engine.
+SkySync is a research-based project proposed mainly for creation of an effective autonomous flight control system via reinforcement learning. The project focuses on the full autonomous control of an aircraft purely via AI. It utilizes Unity ML Agents for some of the core ML mechanics. The entire project primarily runs on Unity Engine for the simulation based training and result demonstration. The efficiency of the agent will be evaluated with the help of Tensorboard.
 
 ## Prerequisites
 Unity Engine 2020.2.7f1 <br />
